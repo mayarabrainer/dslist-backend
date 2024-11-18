@@ -1,6 +1,6 @@
 ## Projeto de estudo da Imersão Java e Spring 
 
-##📖 Sobre a Imersão
+## 📖 Sobre a Imersão
 Participei de uma imersão prática em Java e Spring, onde tive a oportunidade de aprender conceitos avançados e aplicá-los no desenvolvimento de uma aplicação completa.
 A experiência proporcionou um sólido conhecimento em tecnologias essenciais para o desenvolvimento back-end e no uso de boas práticas de programação.
 
@@ -58,4 +58,4 @@ docker-compose up
 4. Executar a aplicação
 Acesse o endereço http://localhost:8080 para utilizar a API.
    
-
+## Feito com ❤️ e ☕ por Mayara Brainer.
